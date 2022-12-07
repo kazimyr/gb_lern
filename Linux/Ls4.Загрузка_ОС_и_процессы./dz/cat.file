@@ -1,0 +1,2 @@
+ctrl+d не прередает никакого сигнала, в отличае от ctrl+с
+передается eof для функции read, а еще точнее предается  End of Transmission character
