@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kazimyr/Документы/programming/Lern/С++/Geekbrains.ru/Основы С++/Урок 1/ДЗ/dev/foo.h
+
+/home/kazimyr/Документы/programming/Lern/С++/Geekbrains.ru/Основы С++/Урок 1/ДЗ/dev/main.cpp
+foo.h
+/home/kazimyr/Документы/programming/Lern/С++/Geekbrains.ru/Основы С++/Урок 1/ДЗ/dev/foo.h
+
