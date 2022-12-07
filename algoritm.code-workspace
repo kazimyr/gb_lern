@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "Алгоритмы_и_структуры_на_С"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"math.h": "c"
+		}
+	}
+}
